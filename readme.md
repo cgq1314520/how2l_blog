@@ -1,3 +1,5 @@
+注意：对于直播和点播的实现时基于nginx装配http-flv模块实现流媒体服务的，所以想要使用点播和直播服务，请自己手动在本机或者服务器上进行搭建，从而实现点播或者直播。
+直播的软件使用第三方软件obs-video
 ## 利用tomcat+jsp实现blog(博客系统)
 
 ![image-20210208184156948](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210208184156948.png)
