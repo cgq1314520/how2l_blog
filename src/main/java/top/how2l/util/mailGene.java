@@ -19,7 +19,7 @@ public class mailGene {
 
     /*获取发送方账号，也即自己的邮箱账号*/
     public static String getAccount() {
-        return "你的邮箱账号";
+        return "你的邮 箱账号";
     }
 
     /*第三方授权码*/
