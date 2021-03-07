@@ -19,12 +19,12 @@ public class mailGene {
 
     /*获取发送方账号，也即自己的邮箱账号*/
     public static String getAccount() {
-        return "你的邮箱账号";
+        return "你的邮箱账号 ";
     }
 
     /*第三方授权码*/
     public static String password() {
-        return "你的第三方授权码可在qq邮箱设置中得到";
+        return "你的第三方授权码 可在qq邮箱设置中得到";
     }
 
     /*生成主体的内容，同时生成一个6位的随机数，作为验证码发送给用
